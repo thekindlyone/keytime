@@ -1,0 +1,1 @@
+Absorbs pointer movement while typing.
